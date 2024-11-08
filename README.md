@@ -1,7 +1,7 @@
 # Hajes
 
 ## Contents
-- **Team Members**: Abdulilah Khalaf, Bader Al-Shamrani, Mohammad Al-Luhaidan, Yazan Al-Shaibi
+- **Team Members**: Abdulilah Khalaf, Bader Al-Shamrani, Mohammad AlLuhaydan, Yazan Al-Shuaibi
   
 - **Problem & Solution**: The decline in Saudi youth interest in traditional poetry due to the rise of modern arts. Hajes aims to revive cultural heritage and enhance cultural awareness through an innovative digital experience.
 
